@@ -1,0 +1,8 @@
+rustc main.rs
+./main
+
+cargo new myapp
+cd myapp
+cargo run
+cargo test
+cargo build --release
